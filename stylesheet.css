@@ -72,6 +72,11 @@ a:visited {
 	text-decoration: none;
 }
 
+a:hover {
+	color: #888888;
+	text-decoration: underline;
+}
+
 h1 {
 	font-size: 250%;
 }
