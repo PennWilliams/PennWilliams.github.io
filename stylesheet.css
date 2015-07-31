@@ -37,6 +37,9 @@ Position
 	
 	background-color: #F2F2F2;
 	color: #1D1F21;
+	
+	background-image: url("/images/noise.png");
+    background-repeat: repeat;
 }
 
 
