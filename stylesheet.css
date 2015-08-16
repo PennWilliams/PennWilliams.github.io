@@ -26,12 +26,10 @@ Position
 	clear: left;
 
 	width: 300px;
-	
-	overflow: auto;
 }
 
 .main {
-	height: 100%;
+	min-height: 100%;
 	padding-top: 5px;
 	padding-left: 10; /*310px;*/
 	
@@ -52,7 +50,7 @@ Body Styles
 */
 
 #sidebarcontent {
-	height: 100%;
+	min-height: 100%;
 	padding-top: 5px;
 	padding-left: 10px;
 	
@@ -120,4 +118,8 @@ h6 {
 hr {
 	border: 0;
 	height: 5px;
+}
+
+iframe {
+	
 }
